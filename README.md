@@ -26,4 +26,4 @@ Using TF-IDF features, the best model (Logistic Regression) achieved an accuracy
 
 ### Conclusion
 
-This project provides a practical implementation of sentiment analysis on textual data using NLP and machine learning. The README file aims to guide users through the code structure, dataset utilization, and model training for those interested in exploring or extending the project.
+This project provides a practical implementation of sentiment analysis on textual data using NLP and machine learning.
